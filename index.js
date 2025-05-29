@@ -9,7 +9,7 @@ sheet.style.overflow = "auto";
 sheet.style.boxShadow = "0 -1px 5px rgb(173, 173, 173, 0.2)"
 
 
-for(let i=0; i<100; i++){
+for(let i=0; i<101; i++){
     for(let j =0; j<27; j++){
         //creating the first cell as empty header
         if(i ===0 && j===0){
